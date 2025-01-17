@@ -24,10 +24,10 @@ The project contains the following components:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/SubhajitDolai/nft-gallery.git
 
 2. Install the dependencies and run:
     ```bash
-    cd your-repo
+    cd nft-gallery
     npm install
     npm run dev
