@@ -4,7 +4,7 @@
 
 Watch the demo below to see how the project works:
 
-![Project Demo](./Screen%20Recording.mov)
+![Project Demo](./Screen%20Recording.mp4)
 
 This is a simple react project where I have learned to use Tailwind CSS and React Props to create dynamic components.
 
